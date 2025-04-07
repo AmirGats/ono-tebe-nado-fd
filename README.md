@@ -1,5 +1,1 @@
-# Проект "Оно тебе надо"
-
-Простой одностраничный сайт - минимум лишнего, максимум смысла.
-
-[**Перейти к проетку на GitHub**](https://github.com/AmirGats/ono-tebe-nado-fd)
+https://github.com/AmirGats/ono-tebe-nado-fd
