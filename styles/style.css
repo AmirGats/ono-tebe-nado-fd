@@ -32,6 +32,10 @@
   gap: 46px;
 }
 
+.header__logo {
+  margin-right: 150px;
+}
+
 .header__logo-image {
   height: 105px;
 }
@@ -172,7 +176,6 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  
 }
 
 .card__title {
@@ -228,6 +231,12 @@
 .about__description {
   margin-top: 98px;
   width: 693px;
+}
+
+.about__text {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
 }
 
 .about__description p {
